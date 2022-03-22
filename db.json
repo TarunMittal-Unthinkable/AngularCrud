@@ -1,0 +1,68 @@
+{
+  "productList": [
+    {
+      "productName": "Grapes",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 250,
+      "comment": "Good for health",
+      "date": "2022-03-21T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Mango",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 20,
+      "comment": "Good fruit",
+      "date": "2022-03-14T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "react",
+      "category": "Technology",
+      "freshness": "Brand New",
+      "price": 1000,
+      "comment": "hi",
+      "date": "2022-03-15T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Angular",
+      "category": "Technology",
+      "freshness": "Brand New",
+      "price": 12,
+      "comment": "Frontend",
+      "date": "2022-03-22T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "Patato",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 14,
+      "comment": "Fav",
+      "date": "2022-03-15T18:30:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "Mirchi",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 16,
+      "comment": "tez",
+      "date": "2022-03-22T18:30:00.000Z",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
